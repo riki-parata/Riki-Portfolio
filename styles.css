@@ -66,13 +66,6 @@ a:hover {
   padding-top: 60px;
 }
 
-.exp {
-  text-align: center;
-  background: url('images/expimg.jpg') no-repeat top center ;
-  background-size: cover;
-  overflow: hidden;
-  padding-top: 60px;
-}
 header {
   line-height: 1.5;
 }
@@ -91,7 +84,7 @@ header .profile-image:hover {
 .flex .interest-image {
   margin-top: 50px;
   width: 400px;
-  height: 300px;
+  height: 500px;
   border-radius: 0%;
   border: 3px solid white;
   transition: all .5s;
@@ -122,7 +115,7 @@ header .profile-image:hover {
 }
 
 .cards {
-  margin: 30px;
+  margin: 6s0px;
   padding: 20px 40px 40px;
   max-width: 100%;
   text-align: center;
